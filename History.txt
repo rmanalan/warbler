@@ -1,3 +1,7 @@
+== 0.9.12.1
+
+* Updated JRuby to 1.2.0 and JRuby-Rack to 0.9.4
+
 == 0.9.12
 
 * Allow framework auto-detection to be disabled. Set
